@@ -1,5 +1,7 @@
 void setup(){
-background(0);
+background (0);
 }
-void draw(){}
+void draw(){
+rect (10,10);
+}
 
